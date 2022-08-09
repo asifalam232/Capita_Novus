@@ -1,8 +1,16 @@
+import java.util.Scanner;
+
 public class SquareCalculator {
     public static void main(String[] args) {
-//        Declaring the variables width and height.
-        double width = 13.5;
-        double height = 25.3;
+        // Initialize the scanner
+        Scanner scanner = new Scanner(System.in);
+
+//        Reading the inputs and setting the variables
+//        width and height.
+        System.out.print("Enter the width: ");
+        double width = Double.parseDouble(scanner.nextLine());
+        System.out.print("Enter the height: ");
+        double height = Double.parseDouble(scanner.nextLine());
 
 //        Printing the variables.
         System.out.println("The width is " + width);
