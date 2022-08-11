@@ -1,3 +1,5 @@
+package Wednesday_challenges;
+
 public class ThreeDigitCodes
 {
     public static void main(String[] args)

@@ -1,3 +1,5 @@
+package Wednesday_challenges;
+
 import java.util.Scanner;
 
 public class SumNumbers

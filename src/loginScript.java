@@ -20,7 +20,7 @@ public class loginScript
 //            Checks if username is empty.
             if (otherUsername.isEmpty())
             {
-            System.out.println("Please enter a username.");
+                System.out.println("Please enter a username.");
             }
             else
             {
@@ -47,5 +47,5 @@ public class loginScript
             System.out.println("Three incorrect attempts. You have been banned.");
         }
 
-        }
+    }
 }

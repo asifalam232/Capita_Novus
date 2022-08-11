@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add ReverseString">
+    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add ThreeDigitCodes and refactor, comment code.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SumNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TimesTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimesTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loginScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginScript.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,47 +30,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowGit.ShowToolbar": "false",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ThreeDigitCodes">
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.SumNumbers">
     <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+      <option name="MAIN_CLASS_NAME" value="Wednesday_challenges.ReverseString" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumNumbers" />
+      <option name="MAIN_CLASS_NAME" value="Wednesday_challenges.SumNumbers" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ThreeDigitCodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeDigitCodes" />
+      <option name="MAIN_CLASS_NAME" value="Wednesday_challenges.ThreeDigitCodes" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TimesTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimesTable" />
+      <option name="MAIN_CLASS_NAME" value="Wednesday_challenges.TimesTable" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginScript" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loginScript" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumNumbers" />
+        <item itemvalue="Application.loginScript" />
         <item itemvalue="Application.ThreeDigitCodes" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.SumNumbers" />
         <item itemvalue="Application.TimesTable" />
-        <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +95,8 @@
       <option name="presentableId" value="Default" />
       <updated>1659962730003</updated>
       <workItem from="1659962732080" duration="6303000" />
-      <workItem from="1660043261070" duration="16318000" />
+      <workItem from="1660043261070" duration="16443000" />
+      <workItem from="1660134364115" duration="6131000" />
     </task>
     <task id="LOCAL-00001" summary="Add Main and calculator.">
       <created>1659970291233</created>
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660128883138</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add ThreeDigitCodes and refactor, comment code.">
+      <created>1660132329797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660132329797</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +155,7 @@
     <MESSAGE value="Implement login script." />
     <MESSAGE value="Add TimesTable and SumNumbers" />
     <MESSAGE value="Add ReverseString" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ReverseString" />
+    <MESSAGE value="Add ThreeDigitCodes and refactor, comment code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ThreeDigitCodes and refactor, comment code." />
   </component>
 </project>
