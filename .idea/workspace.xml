@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add TestArray that sums and averages an array.">
-      <change afterPath="$PROJECT_DIR$/src/Monday_22aug/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monday_22aug/ExistInArray.java" afterDir="false" />
+    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add ExistInArray that checks if an item is in the array.">
+      <change afterPath="$PROJECT_DIR$/src/Monday_22aug/MaxAndMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExistInArray">
+  <component name="RunManager" selected="Application.MaxAndMin">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Monday_22aug.Array" />
       <module name="HelloWorld" />
@@ -59,6 +58,19 @@
     </configuration>
     <configuration name="ExistInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Monday_22aug.ExistInArray" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Monday_22aug.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Monday_22aug.MaxAndMin" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -90,20 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loginScript" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loginScript" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxAndMin" />
         <item itemvalue="Application.ExistInArray" />
         <item itemvalue="Application.TestArray" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.SumNumbers" />
-        <item itemvalue="Application.loginScript" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +126,7 @@
       <workItem from="1660213691644" duration="307000" />
       <workItem from="1660214329366" duration="811000" />
       <workItem from="1660406292945" duration="150000" />
-      <workItem from="1661171036239" duration="7080000" />
+      <workItem from="1661171036239" duration="11049000" />
     </task>
     <task id="LOCAL-00001" summary="Add Main and calculator.">
       <created>1659970291233</created>
@@ -172,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661179922786</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add ExistInArray that checks if an item is in the array.">
+      <created>1661181952352</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661181952352</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add ExistInArray that checks if an item is in the array.">
+      <created>1661182011699</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661182011699</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +216,7 @@
     <MESSAGE value="Add ThreeDigitCodes and refactor, comment code." />
     <MESSAGE value="Move files to Wednesday_challenges." />
     <MESSAGE value="Add TestArray that sums and averages an array." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add TestArray that sums and averages an array." />
+    <MESSAGE value="Add ExistInArray that checks if an item is in the array." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ExistInArray that checks if an item is in the array." />
   </component>
 </project>
