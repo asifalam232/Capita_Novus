@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add Duplicates that finds the duplicate elements in two arrays.">
-      <change afterPath="$PROJECT_DIR$/src/Monday_22aug/Duplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,16 +38,17 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/bdalam/Desktop/Capita_training/Code/HelloWorld&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Duplicates">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Monday_22aug.Array" />
+  <component name="RunManager" selected="Application.FibonacciCalc">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tuesday_23aug.Demo" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Monday_22aug.*" />
+          <option name="PATTERN" value="tuesday_23aug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Monday_22aug.Duplicates" />
+    <configuration name="FibonacciCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tuesday_23aug.FibonacciCalc" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Monday_22aug.*" />
+          <option name="PATTERN" value="tuesday_23aug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExistInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Monday_22aug.ExistInArray" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tuesday_23aug.Main" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Monday_22aug.*" />
+          <option name="PATTERN" value="tuesday_23aug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Monday_22aug.MaxAndMin" />
+    <configuration name="UseMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tuesday_23aug.UseMethod" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Monday_22aug.*" />
+          <option name="PATTERN" value="tuesday_23aug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Monday_22aug.TestArray" />
+    <configuration name="UsingLengths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tuesday_23aug.UsingLengths" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Monday_22aug.*" />
+          <option name="PATTERN" value="tuesday_23aug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Duplicates" />
-        <item itemvalue="Application.MaxAndMin" />
-        <item itemvalue="Application.ExistInArray" />
-        <item itemvalue="Application.TestArray" />
-        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.FibonacciCalc" />
+        <item itemvalue="Application.UsingLengths" />
+        <item itemvalue="Application.UseMethod" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,11 @@
       <workItem from="1660213691644" duration="307000" />
       <workItem from="1660214329366" duration="811000" />
       <workItem from="1660406292945" duration="150000" />
-      <workItem from="1661171036239" duration="12807000" />
+      <workItem from="1661171036239" duration="13652000" />
+      <workItem from="1661240681909" duration="6715000" />
+      <workItem from="1661327347967" duration="2617000" />
+      <workItem from="1661332196556" duration="93000" />
+      <workItem from="1661332420289" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="Add Main and calculator.">
       <created>1659970291233</created>
@@ -204,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661193509924</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add Duplicates that finds the duplicate elements in two arrays.">
+      <created>1661195299089</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661195299089</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
