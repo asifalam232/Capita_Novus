@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add Duplicates that finds the duplicate elements in two arrays.">
+    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add Class FibonacciCalc that takes input from the user and prints out the first Nth elements of the Fibonacci sequence.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuesday_23aug/FibonacciCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuesday_23aug/FibonacciCalc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,20 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FibonacciCalc">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tuesday_23aug.Demo" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tuesday_23aug.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MyCalculator">
     <configuration name="FibonacciCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tuesday_23aug.FibonacciCalc" />
       <module name="HelloWorld" />
@@ -71,6 +59,19 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tuesday_23aug.Main" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tuesday_23aug.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tuesday_23aug.MyCalculator" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyCalculator" />
         <item itemvalue="Application.FibonacciCalc" />
         <item itemvalue="Application.UsingLengths" />
         <item itemvalue="Application.UseMethod" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +137,7 @@
       <workItem from="1661240681909" duration="6715000" />
       <workItem from="1661327347967" duration="2617000" />
       <workItem from="1661332196556" duration="93000" />
-      <workItem from="1661332420289" duration="1053000" />
+      <workItem from="1661332420289" duration="2118000" />
     </task>
     <task id="LOCAL-00001" summary="Add Main and calculator.">
       <created>1659970291233</created>
@@ -215,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661195299089</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add Class FibonacciCalc that takes input from the user and prints out the first Nth elements of the Fibonacci sequence.">
+      <created>1661333638936</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661333638936</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +251,7 @@
     <MESSAGE value="Add ExistInArray that checks if an item is in the array." />
     <MESSAGE value="Add MaxAndMin that finds the minimum and maximum values in an array." />
     <MESSAGE value="Add Duplicates that finds the duplicate elements in two arrays." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Duplicates that finds the duplicate elements in two arrays." />
+    <MESSAGE value="Add Class FibonacciCalc that takes input from the user and prints out the first Nth elements of the Fibonacci sequence." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Class FibonacciCalc that takes input from the user and prints out the first Nth elements of the Fibonacci sequence." />
   </component>
 </project>

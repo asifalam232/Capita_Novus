@@ -12,14 +12,13 @@ public class FibonacciCalc {
         Fibonacci(n);
     }
 
-    public static void Fibonacci (int n) {
+     static void Fibonacci (int n) {
         long num1 = 0;
         long num2 = 1;
         int counter = 0;
-//        long sum = 0;
 
         while (counter < n) {
-            System.out.print(num1 + ", ");
+            System.out.print(num1 + " ");
             long sum = num2 + num1;
             num1 = num2;
             num2 = sum;
