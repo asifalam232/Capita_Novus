@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add Class FibonacciCalc that takes input from the user and prints out the first Nth elements of the Fibonacci sequence.">
+    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add Class MyCalculator that takes input from the user and prints out the addition, subtraction, multiplication and division of two numbers.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tuesday_23aug/FibonacciCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuesday_23aug/FibonacciCalc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MyCalculator">
+  <component name="RunManager" selected="Application.MinMaxMethods">
     <configuration name="FibonacciCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tuesday_23aug.FibonacciCalc" />
       <module name="HelloWorld" />
@@ -57,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tuesday_23aug.Main" />
+    <configuration name="MinMaxMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tuesday_23aug.MinMaxMethods" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinMaxMethods" />
         <item itemvalue="Application.MyCalculator" />
         <item itemvalue="Application.FibonacciCalc" />
         <item itemvalue="Application.UsingLengths" />
         <item itemvalue="Application.UseMethod" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +136,7 @@
       <workItem from="1661240681909" duration="6715000" />
       <workItem from="1661327347967" duration="2617000" />
       <workItem from="1661332196556" duration="93000" />
-      <workItem from="1661332420289" duration="2118000" />
+      <workItem from="1661332420289" duration="4149000" />
     </task>
     <task id="LOCAL-00001" summary="Add Main and calculator.">
       <created>1659970291233</created>
@@ -223,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661333638936</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add Class MyCalculator that takes input from the user and prints out the addition, subtraction, multiplication and division of two numbers.">
+      <created>1661334643591</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661334643591</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +258,7 @@
     <MESSAGE value="Add MaxAndMin that finds the minimum and maximum values in an array." />
     <MESSAGE value="Add Duplicates that finds the duplicate elements in two arrays." />
     <MESSAGE value="Add Class FibonacciCalc that takes input from the user and prints out the first Nth elements of the Fibonacci sequence." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Class FibonacciCalc that takes input from the user and prints out the first Nth elements of the Fibonacci sequence." />
+    <MESSAGE value="Add Class MyCalculator that takes input from the user and prints out the addition, subtraction, multiplication and division of two numbers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Class MyCalculator that takes input from the user and prints out the addition, subtraction, multiplication and division of two numbers." />
   </component>
 </project>
