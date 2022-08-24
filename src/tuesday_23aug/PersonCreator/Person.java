@@ -44,4 +44,20 @@ public class Person {
     public void setWeight(double weight) {
         this.weight = weight;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", height=" + height + "cm" +
+                ", weight=" + weight + "lbs" +
+                '}';
+    }
+
+    public void growOlder() {
+        age++;
+        height--;
+        weight = weight - 0.5;
+    }
 }

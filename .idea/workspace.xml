@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add Class MinMaxMethods that takes input from the user and prints out the minimum and maximum numbers out of the three values.">
+    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add PersonCreator with Person and Main class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuesday_23aug/PersonCreator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuesday_23aug/PersonCreator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tuesday_23aug/PersonCreator/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tuesday_23aug/PersonCreator/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +138,7 @@
       <workItem from="1661240681909" duration="6715000" />
       <workItem from="1661327347967" duration="2617000" />
       <workItem from="1661332196556" duration="93000" />
-      <workItem from="1661332420289" duration="5958000" />
+      <workItem from="1661332420289" duration="6550000" />
     </task>
     <task id="LOCAL-00001" summary="Add Main and calculator.">
       <created>1659970291233</created>
@@ -236,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661336899375</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add PersonCreator with Person and Main class">
+      <created>1661339434689</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661339434689</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +276,7 @@
     <MESSAGE value="Add Class FibonacciCalc that takes input from the user and prints out the first Nth elements of the Fibonacci sequence." />
     <MESSAGE value="Add Class MyCalculator that takes input from the user and prints out the addition, subtraction, multiplication and division of two numbers." />
     <MESSAGE value="Add Class MinMaxMethods that takes input from the user and prints out the minimum and maximum numbers out of the three values." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Class MinMaxMethods that takes input from the user and prints out the minimum and maximum numbers out of the three values." />
+    <MESSAGE value="Add PersonCreator with Person and Main class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PersonCreator with Person and Main class" />
   </component>
 </project>
