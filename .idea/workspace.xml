@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add growOlder method to Person.java">
+    <list default="true" id="48a9f2eb-fc33-4718-af78-119a81120b81" name="Changes" comment="Add Circle and CircleTest classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CircleTest">
+  <component name="RunManager" selected="Application.Library">
     <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tuesday_23aug.Circle.CircleTest" />
       <module name="HelloWorld" />
@@ -56,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tuesday_23aug.FibonacciCalc" />
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tuesday_23aug.LibraryBooks.Library" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tuesday_23aug.*" />
+          <option name="PATTERN" value="tuesday_23aug.LibraryBooks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Library" />
         <item itemvalue="Application.CircleTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MinMaxMethods" />
         <item itemvalue="Application.MyCalculator" />
-        <item itemvalue="Application.FibonacciCalc" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,7 @@
       <workItem from="1661240681909" duration="6715000" />
       <workItem from="1661327347967" duration="2617000" />
       <workItem from="1661332196556" duration="93000" />
-      <workItem from="1661332420289" duration="7204000" />
+      <workItem from="1661332420289" duration="8137000" />
     </task>
     <task id="LOCAL-00001" summary="Add Main and calculator.">
       <created>1659970291233</created>
@@ -250,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661339996752</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add Circle and CircleTest classes">
+      <created>1661340683498</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661340683498</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +290,7 @@
     <MESSAGE value="Add Class MinMaxMethods that takes input from the user and prints out the minimum and maximum numbers out of the three values." />
     <MESSAGE value="Add PersonCreator with Person and Main class" />
     <MESSAGE value="Add growOlder method to Person.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add growOlder method to Person.java" />
+    <MESSAGE value="Add Circle and CircleTest classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Circle and CircleTest classes" />
   </component>
 </project>
